@@ -1,4 +1,4 @@
-RL_Sinatra
+RL_Building Web Framework with Ruby
 ==========
 
-My slaughtering of the Ruby Learning Sinatra Course
+My slaughtering of the Ruby Learning Course
